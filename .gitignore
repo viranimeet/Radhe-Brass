@@ -1,2 +1,2 @@
 /backend/.env
-default.json
+/backend/config/default.json
